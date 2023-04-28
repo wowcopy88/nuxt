@@ -32,6 +32,7 @@
     "@nuxt/test-utils": "workspace:*",
     "@nuxt/vite-builder": "workspace:*",
     "@nuxt/webpack-builder": "workspace:*",
+    "nitropack": "npm:nitropack-edge@latest",
     "nuxi": "workspace:*",
     "nuxt": "workspace:*",
     "nuxt3": "workspace:nuxt@*",
